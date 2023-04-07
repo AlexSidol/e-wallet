@@ -1,0 +1,52 @@
+.transactionList {
+  background-color: #ffffff;
+  border-radius: 7px;
+  margin-bottom: 8px;
+  margin-top: 32px;
+  overflow: hidden;
+}
+.transactionName {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 27px;
+}
+.transactionItem {
+  position: relative;
+  list-style-type: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #dcdcdf;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.transactionItem::before {
+  position: absolute;
+  display: block;
+  content: '';
+  left: 0;
+  top: 0;
+  width: 5px;
+  height: 50px;
+  background: #ff6596;
+}
+
+.transactionValue {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  float: right;
+}
+
+.transactionList.income .balance {
+  color: #24cca7;
+}
+.transactionList.expense .balance {
+  color: #ff6596;
+}
+.transactionList.expense .transactionItem::before {
+  background: #ff6596;
+}
+
+.transactionList.income .transactionItem::before {
+  background: #24cca7;
+}

@@ -1,0 +1,14 @@
+.chakra-switch__label .plus {
+  position: absolute;
+  color: white;
+  top: 25%;
+  left: 16%;
+  touch-action: none;
+}
+
+.chakra-switch__label .minus {
+  position: absolute;
+  color: white;
+  top: 15%;
+  left: 57%;
+}
