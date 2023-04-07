@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/e-wallet/static/css/main.7f2348f9.css",
+    "main.js": "/e-wallet/static/js/main.acfa5030.js",
+    "static/media/Circe-Bold.woff": "/e-wallet/static/media/Circe-Bold.fca9743700608e1abf6a.woff",
+    "static/media/Circe-Regular.woff": "/e-wallet/static/media/Circe-Regular.a5168fcec068fa77220a.woff",
+    "static/media/Main_img.svg": "/e-wallet/static/media/Main_img.524a2ae994a99e78aba6fbc519f278a2.svg",
+    "static/media/Main_reg_img.svg": "/e-wallet/static/media/Main_reg_img.75b887ed3fcbc6bc6817c9ceaa2de145.svg",
+    "static/media/Poppins-Regular.woff": "/e-wallet/static/media/Poppins-Regular.7d50cfcb7fdf5bd337a0.woff",
+    "static/media/Poppins-Bold.woff": "/e-wallet/static/media/Poppins-Bold.125974335c0c9046c212.woff",
+    "static/media/desktop_bg.jpg": "/e-wallet/static/media/desktop_bg.f02eca5c6d80221387b0.jpg",
+    "static/media/tablet_bg.jpg": "/e-wallet/static/media/tablet_bg.d0ebe82c354350cbd4e3.jpg",
+    "static/media/sprite.svg": "/e-wallet/static/media/sprite.2ff8c251446e20eb300ae7b5c4b8d862.svg",
+    "static/media/CurrencyTab.svg": "/e-wallet/static/media/CurrencyTab.fae4a9c7f98c64fc6f39741d6fb92d93.svg",
+    "static/media/Currency.svg": "/e-wallet/static/media/Currency.2965f3691046b64b7ba2e0a0528b27fd.svg",
+    "static/media/CurrencyMob.svg": "/e-wallet/static/media/CurrencyMob.340c22a500ab5a21cd92a8df9fb25c67.svg",
+    "index.html": "/e-wallet/index.html",
+    "static/media/purple_elipse.svg": "/e-wallet/static/media/purple_elipse.488cddf56046cce43473eb8dd9764397.svg",
+    "static/media/pink_elipse.svg": "/e-wallet/static/media/pink_elipse.22839d83b7fa40ba645bf86e2cabf735.svg",
+    "main.7f2348f9.css.map": "/e-wallet/static/css/main.7f2348f9.css.map",
+    "main.acfa5030.js.map": "/e-wallet/static/js/main.acfa5030.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f2348f9.css",
+    "static/js/main.acfa5030.js"
+  ]
+}
